@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "SamsAPI": {
+    "SampleAPI": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

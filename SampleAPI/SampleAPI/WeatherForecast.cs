@@ -1,4 +1,4 @@
-namespace SamsAPI
+namespace SampleAPI
 {
     public class WeatherForecast
     {

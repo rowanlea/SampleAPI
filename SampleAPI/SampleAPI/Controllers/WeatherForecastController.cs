@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace SamsAPI.Controllers
+namespace SampleAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
